@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com Desenvolvimento Mobile
 - 🌱 Estudando Flutter
-- 😄 Pronouns: ela/dela
 
 <div>
   <a href="https://github.com/Jade-Oliveira">
