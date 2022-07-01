@@ -1,7 +1,7 @@
 ## Olá, eu sou a Jade!
 
 - 🔭 Hoje trabalho com Desenvolvimento Mobile
-- 🌱 Estudando Flutter
+- 🌱 Atuei em projetos como desenvolvedora Flutter e atualmente atuo como desenvolvedora iOS
 
 <div>
   <a href="https://github.com/Jade-Oliveira">
